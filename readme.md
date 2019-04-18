@@ -5,9 +5,10 @@ Category: research
 Tags: 
 Slug: 
 Authors: Atom Scott @ Xperception Lab, University of Tsukuba
-Summary: Short version for index and feeds
+Summary: 
 
 This research stemmed from an R&D project with an undisclosed Japanese research center.
+
 ※More info may be released in the future.
 
 Thanks to my previous experiance in modelling continous time-series data, I was assigned to implement a module that can do emotion recognition from vocal streams captured with the Microsoft Hololens.
