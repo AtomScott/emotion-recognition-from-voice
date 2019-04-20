@@ -3,6 +3,8 @@ Date: 2018-10-01 19:30
 Modified: 2010-12-05 19:30
 Category: research
 Tags: 
+img: https://github.com/AtomScott/emotion-recognition-from-voice/blob/master/img.jpg?raw=true 
+link: https://github.com/AtomScott/emotion-recognition-from-voice
 Slug: emotion-recognition-from-voice
 Authors: Atom Scott @ Xperception Lab, University of Tsukuba
 Summary: 
